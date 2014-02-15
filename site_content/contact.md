@@ -1,1 +1,8 @@
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer.
+Paul Burcher
+
+24 Alberta Avenue
+
+Cowan 2081
+
+0499 777490
+
