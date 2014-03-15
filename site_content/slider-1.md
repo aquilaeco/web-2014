@@ -1,10 +1,3 @@
-##SEXY
-googdbye googdbye googdbye googdbye googdbye googdbye 
+##AES
+Aquila Ecological Surveys (AES) is an environmental consultancy based in northern Sydney, NSW. AES specialises in offering affordable, timely surveys and reports backed up by sound knowledge of scientific principles and relevant legislation.  
 
-## WELL HUNG
-
-Blah blah blah blah blah blah blah blah blah.
-
-## AVAILABLE
-
-Blah blah blah blah blah blah blah blah blah.

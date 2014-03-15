@@ -1,3 +1,5 @@
 ##Experience
 
-Aquila principal Paul Burcher has 400 years experience across every imaginable field!
+AES principal Paul Burcher (B.App.Sc) has over 20 years experience as an independent environmental consultant.
+
+Paul is a council member of the Ecological Consultants Association of NSW and ascribes to its Code of Business Practice, Professional Conduct and Ethics.
