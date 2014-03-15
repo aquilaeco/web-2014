@@ -3189,7 +3189,7 @@ input[type="button"].btn-block {
   display: block;
   padding-top: 30px ;
   text-shadow: 0px 0px 26px rgba(131, 131, 122, 0.15);
-  font-size: 32px;
+  font-size: 30px;
   line-height: 26px;
   color: #999;
   font-weight: 600;
@@ -3204,9 +3204,9 @@ input[type="button"].btn-block {
   padding: 5px 15px 31px 10px;
   font-size: 26px;
   line-height: 26px;
-  color: :#111;
+  color: #111;
   font-weight: 500;
-  width: 550px !important;
+  width: 515px !important;
 }
 .navbar-brand:hover,
 .navbar-brand:focus {
@@ -6940,7 +6940,6 @@ body {
   width: 100%;
 }
 #section-clients ul.list-clients > li {
-  list-style: none;
   text-align: center;
   margin-top: 5px;
   display: block;
