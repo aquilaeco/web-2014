@@ -1,3 +1,1 @@
-services_4 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+Vegetation management plans and habitat management plans are increasingly required to accompany development applications to local government authorities.  We can prepare documentation that satisfies such needs while ensuring a manageable outcome for your bushland.

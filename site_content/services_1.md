@@ -1,3 +1,1 @@
-services_1 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+AES conducts fauna surveys conforming to government authority requirements and using up-to-date methods and technology.  We have a range of traps, infra-red cameras and recording devices suitable for catching, sampling hair, taking images or recording the calls of various terrestrial, vertebrate fauna species.

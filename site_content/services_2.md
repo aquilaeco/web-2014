@@ -1,3 +1,1 @@
-services_2 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+AES can undertake flora surveys on the small to large scale with methods appropriate to the size and scale of the project.  As well as targeted searches for rare and threatened flora species, we can assay  vegetation communities using quadrat sampling, random menader, linear transects and  other methods.  We can also provide vegetation mapping of your site using a combination of on-ground sampling and remote sensing methods.

@@ -1,3 +1,7 @@
-services_3 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+AES can prepare assessment reports that comply with the relevant legislation and planning documents such as:
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+- the Commonwealth *Environment Protection and Biodiversity Conservation Act*
+- the NSW *Environmental Planning and Assessment Act*
+- the NSW *Threatened Species Conservation Act*, 
+- various State Environmental Planning Policies and Regional Environmental Plans;
+-  local environmental plans.

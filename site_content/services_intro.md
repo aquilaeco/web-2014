@@ -1,1 +1,1 @@
-services_intro services_intro services_intro services_intro services_intro services_intro services_intro services_intro services_intro services_intro services_intro services_intro
+We offer a range of services related to ecological surveys and environmental assessment including the following.
