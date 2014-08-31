@@ -12,6 +12,7 @@
     <!-- Files Style -->
     <link type="text/css" rel="stylesheet" href="./css/bootstrap.css" />
     <link type="text/css" rel="stylesheet" href="./css/prettyPhoto.css">
+    <link type="text/css" rel="stylesheet" href="./css/extras.css">
 
 
     <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.0.6/angular.min.js"></script>
@@ -216,69 +217,69 @@
 
             <div class="row">
                 <div id="project_1" class="box-project col-xs-12 col-sm-6 col-md-4">
-                    <a class="prettyPhoto" href="test.html">
+                    <!--a class="prettyPhoto" href="test.html"-->
                         <div class="content">
-<!-- header for CS1 -->                        
-                            <h4>Blah blah</h4>
+                            <h4 markdown src="site_content/casestudy_1.title.md"></h4>
                         </div>
                         <img alt="" title="" class="img-responsive retina" src="./Photos/cs1.jpg" data-at2x="./images/works/work_placeholder.png">
                         <p markdown src="site_content/casestudy_1.md"></p>
-                    </a>
+                    <!--/a-->
                 </div>
                 <!-- /#project_1 -->
 
                 <div id="project_2" class="box-project col-xs-12 col-sm-6 col-md-4">
-                    <a class="prettyPhoto" href="./images/works/work_placeholder.png">
+                    
                         <div class="content">
-                            <h5>Lorem Ipsum is simply dummy text of the</h5>
+                            <h4 markdown src="site_content/casestudy_2.title.md"></h4>
                         </div>
                         <img alt="" title="" class="img-responsive retina" src="./Photos/cs2.jpg" data-at2x="./images/works/work_placeholder.png" />
                         <p markdown src="site_content/casestudy_2.md"></p>
-                    </a>
+                    
                 </div>
                 <!-- /#project_2 -->
 
                 <div id="project_3" class="box-project col-xs-12 col-sm-6 col-md-4">
-                    <a class="prettyPhoto" href="./images/works/work_placeholder.png">
+                    
                         <div class="content">
-                            <h5>Lorem Ipsum is simply dummy text of the</h5>
+                            <h4 markdown src="site_content/casestudy_3.title.md"></h4>
                         </div>
                         <img alt="" title="" class="img-responsive retina" src="./Photos/cs3.jpg" data-at2x="./images/works/work_placeholder.png" />
                         <p markdown src="site_content/casestudy_3.md"></p>
-                    </a>
+                    
                 </div>
                 <!-- /#project_3 -->
-
+            </div>
+            <div class="row">
                 <div id="project_4" class="box-project col-xs-12 col-sm-6 col-md-4">
-                    <a class="prettyPhoto" href="./images/works/work_placeholder.png">
+                    
                         <div class="content">
-                            <h5>Lorem Ipsum is simply dummy text of the</h5>
+                            <h4 markdown src="site_content/casestudy_4.title.md"></h4>
                         </div>
                         <img alt="" title="" class="img-responsive retina" src="./Photos/cs4.jpg" data-at2x="./images/works/work_placeholder.png" />
                         <p markdown src="site_content/casestudy_4.md"></p>
-                    </a>
+                    
                 </div>
                 <!-- /#project_4 -->
 
                 <div id="project_5" class="box-project col-xs-12 col-sm-6 col-md-4">
-                    <a class="prettyPhoto" href="./images/works/work_placeholder.png">
+                    
                         <div class="content">
-                            <h5>Lorem Ipsum is simply dummy text of the</h5>
+                            <h4 markdown src="site_content/casestudy_5.title.md"></h4>
                         </div>
                         <img alt="" title="" class="img-responsive retina" src="./Photos/cs5.jpg" data-at2x="./images/works/work_placeholder.png" />
                         <p markdown src="site_content/casestudy_5.md"></p>
-                    </a>
+                    
                 </div>
                 <!-- /#project_5 -->
 
                 <div id="project_6" class="box-project col-xs-12 col-sm-6 col-md-4">
-                    <a class="prettyPhoto" href="./Photos/cs6.jpg">
+                    
                         <div class="content">
-                            <h5>Clive Palmer</h5>
+                            <h4 markdown src="site_content/casestudy_6.title.md"></h4>
                         </div>
                         <img alt="" title="" class="img-responsive retina" src="./Photos/cs6.jpg"/>
                         <p markdown src="site_content/casestudy_6.md"></p>
-                    </a>
+                    
                 </div>
                 <!-- /#project_6 -->
 
@@ -355,9 +356,9 @@
             <!-- /.head-section -->
             <br />
             <div class="row">
-                <div id="person_1" class="person col-md-4 col-xs-12 col-sm-6 col-md-4" markdown src="site_content/partner_1.md"></div>
-                <div id="person_2" class="person col-md-4 col-xs-12 col-sm-6 col-md-4" markdown src="site_content/partner_2.md"></div>
-                <div id="person_3" class="person col-md-4 col-xs-12 col-sm-6 col-md-4" markdown src="site_content/partner_3.md"></div>
+                <div id="person_1" class="person col-md-4 col-xs-12 col-sm-6 col-md-4 centered"><p markdown align="center" src="site_content/partner_1.md"></p></div>
+                <div id="person_2" class="person col-md-4 col-xs-12 col-sm-6 col-md-4 centered"><p markdown align="center" src="site_content/partner_2.md"></p></div>
+                <div id="person_3" class="person col-md-4 col-xs-12 col-sm-6 col-md-4 centered"><p markdown align="center" src="site_content/partner_3.md"></p></div>
             </div>
             <!-- /.row -->
         </div>
@@ -371,7 +372,7 @@
         <div class="container">
             <div class="head-section">
                 <h2>Contact Us</h2>
-                <markdown src="site_content/contact.md">
+                <markdown class="z-contact" src="site_content/contact.md">
             </div>
             <!-- /.head-section -->
 
@@ -418,10 +419,3 @@
 </body>
 
 </html>
-
-
-<!--
-    <markdown src="copy_1.md">This content will be replaced my markdown</markdown>
-    <p markdown src="copy_2.md" />
-    <div markdown src="copy_3.md" />
--->

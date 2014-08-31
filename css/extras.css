@@ -1,0 +1,15 @@
+.z-contact > p > a{
+     color: white !important;
+     font-size: 18px !important;
+     text-decoration: underline; 
+ }
+ 
+ .z-contact > p{
+     color: white !important;
+     font-size: 18px !important;
+ }
+ 
+ .z-partners > p{
+      margin: 0 auto;
+      float: center !important;
+ }
