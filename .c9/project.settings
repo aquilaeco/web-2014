@@ -5,7 +5,7 @@
             "json()": {},
             "@inited": "true"
         },
-        "@runner": "Node.js (default)"
+        "@runner": "Apache httpd (PHP, HTML)"
     },
     "share": {
         "@preview": false,
